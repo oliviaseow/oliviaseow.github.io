@@ -6,3 +6,23 @@
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+html {
+  font-size: 12px; // 16 change to whatever
+
+  @include breakpoint($medium) {
+    font-size: 16px; // 18 change to whatever
+  }
+
+  @include breakpoint($large) {
+    font-size: 18px; // 20 change to whatever
+  }
+
+  @include breakpoint($x-large) {
+    font-size: 20px; // 22 change to whatever
+  }
+}
+
+h1,h2,h3 {
+	font-size: 16px;
+}

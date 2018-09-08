@@ -1,9 +1,10 @@
 ---
 title: "About"
-permalink: /about
+permalink: /about/
 header:
     image: "/assets/images/oliviainafield.jpg"
 ---
+
 *Curious, hungry, relentlessly optimistic.*
 
 I'm an AI engineer passionate about enabling commercialisation of new innovations to market. I have experience in tech, design, and product management. 
