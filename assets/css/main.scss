@@ -8,7 +8,7 @@
 @import "minimal-mistakes"; // main partials
 
 html {
-  font-size: 12px; // 16 change to whatever
+  font-size: 14px; // 16 change to whatever
 
   @include breakpoint($medium) {
     font-size: 16px; // 18 change to whatever
@@ -23,6 +23,18 @@ html {
   }
 }
 
-h1,h2,h3 {
-	font-size: 16px;
+h1 {
+	font-size: 1.25em;
+}
+
+h2 {
+  font-size: 1em;
+}
+
+h3 {
+  font-size: .8em;
+}
+
+p {
+  font-size: .7em;
 }
