@@ -12,3 +12,6 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
+
+#Unfinished posts
+/_posts/2018-09-16-fNIRs.md
