@@ -1,14 +1,12 @@
 ---
-title: "First Foray into BCI"
+title: "Hello world"
 date: 2018-09-08
-tags: [BCI]
 header:
     image: "/assets/images/neuron.png"
-excerpt: "Figuring this out"
+excerpt: "Post template"
 mathjax: "true"
 ---
 
-What *am* I doing? 
 
 [link](https://github.com/oliviaseow)
 
