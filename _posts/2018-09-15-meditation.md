@@ -1,7 +1,7 @@
 ---
-title: "On meditation"
+title: "On Meditation"
 date: 2018-09-15
-tags: [BCI]
+tags: [BCI, Neuroscience]
 excerpt: "How meditation affects brainwaves"
 mathjax: "true"
 ---

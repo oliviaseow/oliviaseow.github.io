@@ -1,7 +1,7 @@
 ---
 title: "Memory and Recall"
 date: 2018-09-08
-tags: [BCI]
+tags: [BCI, Neuroscience]
 excerpt: "The human brain is indeed complex"
 mathjax: "true"
 ---
