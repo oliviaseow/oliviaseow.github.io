@@ -2,7 +2,7 @@
 title: "IDEO CoLab Makeathon 2019"
 date: 2019-11-11
 header:
-    image: "/assets/images/colab/IDEO/banner.jpg"
+    image: "/assets/images/IDEObanner.jpg"
 excerpt: "Ready, set, prototype!"
 mathjax: "true"
 ---
