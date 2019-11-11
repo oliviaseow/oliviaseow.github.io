@@ -20,7 +20,7 @@ title                    : "Cognition + Computing"
 title_separator          : "-"
 name                     : "Olivia Seow"
 description              : "Who is to say that it is not everything else that is a dream?"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://oliviaseow.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -103,9 +103,9 @@ author:
   name             : "Olivia Seow"
   avatar           : /assets/images/ohitsoreo.jpg
   bio              : "Actual seal girl"
-  location         : 
-  email            :
-  uri              :
+  location         : Cambridge, Massachusetts
+  email            : olivias@mit.edu
+  uri              : "/portfolio"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -125,7 +125,7 @@ author:
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
   steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
-  twitter          :
+  twitter          : "ollywoggy"
   vine             :
   weibo            :
   xing             :
