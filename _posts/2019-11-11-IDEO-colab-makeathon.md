@@ -12,16 +12,16 @@ This year, I received the incredible opportunity to participate in the [IDEO CoL
 > CoLab is IDEO's platform for collaborative impact.
 We connect organizations to shape technology’s impact on the world. Together, we design the future.
 
-Over one fast-paced, jam-packed Saturday, tinkerers and innovators met at IDEO's San Francisco and Boston offices to take part in a full-day makeathon.
+Over one fast-paced, jam-packed Saturday, tinkerers and innovators met at IDEO's San Francisco and Boston offices to take part in this full-day makeathon.
 
-I was assigned to a group comprising two business students from UPenn, an industrial designer from SVA, and a business consultant from EY-Parthenon.
+I was assigned to a group comprising a business student from UPenn, an industrial designer from SVA, and a business consultant from EY-Parthenon.
 <br><br>
 
 # Designing for the workplace of the future in 5 hours!
 
 Each team was given a unique challenge, and ours was about helping employers create a venue for honest conversations about employee values - the workplace of the future!
 
-My team and I started by discussing the context and goals for our project. A few months ago, Amazon employees successfully organized Amazon's ambitious carbon reduction targets, aiming to achieve the goals of the Paris Accord a decade before schedule! We wanted to create a safe space for _all_ employees to voice out where their employers fail to meet their ethical expectations, and explore how employers can take action on the concerns of their workforce, rather than waiting for a strike to react.
+My team and I started by discussing the context and goals for our project. A few months ago, Amazon employees successfully organized Amazon's ambitious carbon reduction targets, aiming to achieve the goals of the Paris Accord a decade before schedule! In a similar vein, we wanted to create a safe space for _all_ employees to voice out where their employers fail to meet their ethical expectations, and explore how employers can take action on the concerns of their workforce, rather than waiting for a strike to react.
 
 <center><img src="https://lh3.googleusercontent.com/KoYzlZXSP68srjHEZ8-Ogg6ZE0NpJQW-lKf5uu1IFUJHoplqVtoH-3UiKjTDr4irCmCXtvfuUMaEUS_Bdq_4KKWK7adeTHeIt-xJQ45diaopjpz4Mbdfb_duv_G8yLL7EELmkDjig1sg7DS71xbBgrKEtgzW-oPL63qsbxDze5wb4SV9tTA8korPwevOkrrcX5mngV8AFsgNOIQY-jtMm-2nCE3apSvYS2VYEj7CSxbzAsFO_toe9UczoEpjA99WODPFgUaea46098KWXnjjMwAcp5XdwepmXl5U9eBTu8xwYPb34ZMZwyHDalUblEkj7E8A3Y0iWP0q1-m07luICMu-LTrvRWMTnt9uzJ5GpsjuGnC1Qim7xruk3vLfIbmFTwD2Bx3_Jp3Gnq0rTr_FBzZx_CeN0FrX9JF9_gkg4RxcgsLM7NHIeEQlBZL_xYTZlj1SjhVEMHXfbxlSvNAkeD-FFzYH4SWqpr_eGO1gTkH-Sl0KdrBR_N_3DMCeizzAEzN4JFxiA_6VZJ0vUQrVGJi9DQO1wAaV9HFOx7uwKhvOTNM2AO11_-Yl9BQ8rhNol0WhXOI50UQVk5bYw12Zivo-JlK9do_AcXICA2mqVwlAx0TokoXOQod1R4Oij9S7Dyt6dmpSfHcQLjDUNmo5oB40jqR0EZsvLTulnfLzTLe7Kc6dyJHJ5Nsz1r8okq_2key9DHRwp0kMQJ71aRtcplHwBpBqd2UuJI1nNt6Dn-JF5gON=w960-h540-no" alt="makeathon brainstorming" width="600"></center><br>
 
@@ -46,9 +46,9 @@ And so began our intensive brainstorming and sketching session to create a solut
 
 <center><img align="right" src="https://designthinking-ideo-com.s3.amazonaws.com/assets/images/DT-3-Design_Thinking.svg" alt="IDEO process" width="200"></center><br>
 
-Over 50 ideas later, we voted on our top ideas based on _feasibility, desirability, and viability,_ and ended up with a REAL TALK.
+Over 50 ideas later, we voted on our top ideas based on _feasibility, desirability, and viability,_ and ended up with REAL TALK.
 
-REAL TALK is a friendly tool for employees to surface ethical concerns and to vote on important issues.
+REAL TALK is a friendly tool for employees to surface ethical concerns and to prioritize critical issues.
 
 We wanted to create a user-friendly web interface that synchronized with an interactive panel that employees could engage with in waiting areas (e.g. at elevators). Input on this interface can be voted on by others, who can also share stories or comments. To create a safe space, we developed a system which allows for anonymity, but does not allow an employee to create more than one account should they abuse the system.
 
@@ -58,11 +58,13 @@ On a regular basis, issues voiced on the system flow into a hackathon, where emp
 
 # The birth of REAL TALK @ IDEO
 
-We then set out to build a speed demo of our idea. REAL TALK would be a platform that could be implemented at any company. For our demo, we created REAL TALK @ IDEO.
+We then set out to build a speed demo of our idea. We designed REAL TALK to be a platform that could be implemented at any company. For our demo, we created REAL TALK @ IDEO.
 
 <center><img src="https://lh3.googleusercontent.com/RDx4s8xCmXNHkvEftoljll789w88HxZap2HruswcC1ENd_eDyAD7i-ZX8kS6DATQMywWMKVdxQE3Q8rZdnrNpMRaLRNOnucEbsMiRgB8S4o3kbX3NDxHA-sUYlTvYe3aKn_8NF75yAfi-Fd5GvHzn8_0LWq2JqvJEGdPasOd-Y9tooaL0YZPeUixmYJkLrZIuwXmxA_psNEocMkjy8Bmdu29mmCuXvgxh_0wHidNzLEeUokxpq3uwzbHt_26M-sNJRux4QUJwscL3qPvkAORfBt5AnsjYBtUR7b8D9gtO-mJAB939oOg4PyB_RhrEh5aLHdBuj06Nero0z6vnpLKMYjF6I6nXgjbts7caF0Y22kJX81VTyXkEBKJUxL9Lit-SSIVP4JkL80d_XH6Bm6k4ajqm0qFB88PeG6jWJ8cKCybgVdo0rR7GukGBDpBsSrsrVFgiY73af5g94eBK_MIxzULjExiRRgg0Lhj8R2so0oyQ6LgGgRiMhefNRJiZEz9hhG4My_M-vEjnhbDPaENf--MZlAE4yzwHmzwGo1P3aXxjdZLUzRfMWoB4cmF7R_IM2p-WR-qd187vCTT6xsrA-XGdryXNBDjGAJucpNKr1tbGBIzoH6nP9_v-TbDnze-th5jNeNbaBxY2OL7FQaz_DLQhbyJfYAMQ-yaYeH4CKKLSP7oOXt6Ob3eTn2UhLrxRkoy0t5YAkjn_SFmaPQh1iJpzlgTLOSscz7lCghyk5rqAoK-=w627-h332-no" alt="real talk value propositions" width="500"></center><br>
 
 I took charge of the visual design, branding, and creating a friendly experience that would encourage employees to speak out.
+
+<center><img src="https://lh3.googleusercontent.com/VSbmtKfhX19KKXGtA62kdfIBAJMBzs-zZLnUPBu9AUIhthpb4HTTnrEpfCwEEWFoJmWxZ0MreeihOdvpPf0M5lf_Ur2n-oK7i-sto4aP-E8TYJVX4I71crfnpmDzBXkS6GCMagcJiRL0-XaMuSVtOXQtnR-plrKbZNF-ZwReBbLzAmYvOGON2bnHcaGUoHfmZmWxnpnIw1agMvcz_0TCMVWGYp-MusyMFM5wvwxVbF1qaSuznIT3krBJbGI7lCVMfq6pRC5arsk61cTg5y1V9gDQwe5R6yorimxyvJ3ptdkqLDaxyhb7oEgzKPD9y94EgWov1KO_xy6IlOtaWkF2xgYoC3GYidl3XcxhwpnsA2ALqO_fypAsf3028K8CuZQDv9zUDCLqoj3YgOBvEiXaDJy3Snze78qw-qBZ3aFXT4_M_oixR8Kg7XDyZmiCJMyuG-CZWHsuICtgn87LMw4xBmUHdK-pHQ14lIiUitGHOHhOr9DSwQqjom_0t6ooBKEI47VmE9yf6edXSFJgOXtMfPug0vXQdM4p2GVydtOFQTZmWnqcS7D1rfqqgQRUvyU9n5PbdgzKSPcFFOwk27FoiFOt9pamuXuB82rFRaMyg_PhINTwks6RuS0fLPKKD1agB-yEGSDSuwqVQS2Bb5v-8-9G4DUrOxlFHF1YoSgoZA95oo7o_wfyVXI=w1680-h1260-no" alt="real talk at IDEO" width="500"></center><br>
 
 To get credible content for our demo, we asked CoLab employees to complete a paper survey, "I think my company should _X_ because _Y_". Everyone was enthusiastic to complete this survey, allowing us to get a ton of content in a short time \o/
 
@@ -77,7 +79,7 @@ This content was fed into both our virtual and physical prototypes, the former c
 
 # Conclusion
 
-I loved working on this project with my teammates Carmen, Colleen, and Glenda. It was one of the smoothest, most fun team dynamics I've ever had - ideas flowed freely and everyone built each other up. It was awesome to have a demonstrable product in just a few hours!
+I loved working on this project with my teammates Carmen, Colleen, and Glenda. It was one of the smoothest, most fun team dynamics I've ever had - ideas flowed freely and everyone built each other up. It was awesome to have a demonstrable product in just a few hours! So grateful 🌻
 
 <center><img src="https://lh3.googleusercontent.com/Ekx0lHyFEMp4wvhdyq40wMDl-IWb5FhP_3iUduQsoCZ1T11G8dQBjKBatywjaKaXX5ESctP8npTCg3s93HhTB8aK9n3NKJC2nVyIbg3TiCanra2weGFoyvVnaM1MuU8pog1zIgb-mW5LJvTqNVKzM-qrFA9mvoypsAeAF472sDCbiIynLVh8yEoOsdF0bM3eKYfSDfGoP3nc9AybUEiWjOYub_iRxDzXQHSpXYAh4jWIKlpCgSL2Djfg_w-SUfqCsNY7Z_BURiiyyg_XV1WONJQJFPGNZm6-l-uclmjDmfyDSycJKIOTCbdrwCP1NIfqeHuxpKz9vsOAllZUoiJzD4Dcw2O_DN7MW4vEe0w5GDjHPDaguTaS_1Grow10gqMT3zv7hAV3J9vYynYEWs-LHbdRGUvNNVrgXd2k6ZlEj6clNcgrsBID7C1D5-9IUJWh3pX-UCtHTUfflSK__Qx9_ZJ7nZ9uN8P0OYnle2oGw2bktOGBAza_BuN_z75WPzmLqkl7_WisfL9S8hn0DGXXlQqnnQNnNOJktPBQ8vsaANwMjPrI3sMm4ewfza8szYIYY3qc-9TeVJoOHYycFO6QqXs69XkPg877kEpHxyoB7Ds7LoEN-_XFnlsx34UDsUCUFq4loMjdWTyAWeyR2di8usKHT_K3lX4soQUTGNDK_6U320wCdqgYOoF_pXpQNP3ks8-52_pEhK-iz8I_gUQ_2wrRuurK76Nqw-A6pyhwVIDJPsd1=w960-h720-no" alt="real talk team" width="600"></center><br>
 
