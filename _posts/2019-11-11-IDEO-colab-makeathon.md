@@ -14,16 +14,16 @@ We connect organizations to shape technology’s impact on the world. Together, 
 
 Over one fast-paced, jam-packed Saturday, tinkerers and innovators met at IDEO's San Francisco and Boston offices to take part in a full-day makeathon.
 
-I was assigned to a group consisting two business students from UPenn, an industrial designer from SVA, and a business consultant from EY-Parthenon.
+I was assigned to a group comprising two business students from UPenn, an industrial designer from SVA, and a business consultant from EY-Parthenon.
 <br><br>
 
 # Designing for the workplace of the future in 5 hours!
 
-Each team was given a unique challenge, and ours was about helping employers create a venue for honest conversations about employee values - the work place of the future!
+Each team was given a unique challenge, and ours was about helping employers create a venue for honest conversations about employee values - the workplace of the future!
 
 My team and I started by discussing the context and goals for our project. A few months ago, Amazon employees successfully organized Amazon's ambitious carbon reduction targets, aiming to achieve the goals of the Paris Accord a decade before schedule! We wanted to create a safe space for _all_ employees to voice out where their employers fail to meet their ethical expectations, and explore how employers can take action on the concerns of their workforce, rather than waiting for a strike to react.
 
-<center><img src="https://lh3.googleusercontent.com/KoYzlZXSP68srjHEZ8-Ogg6ZE0NpJQW-lKf5uu1IFUJHoplqVtoH-3UiKjTDr4irCmCXtvfuUMaEUS_Bdq_4KKWK7adeTHeIt-xJQ45diaopjpz4Mbdfb_duv_G8yLL7EELmkDjig1sg7DS71xbBgrKEtgzW-oPL63qsbxDze5wb4SV9tTA8korPwevOkrrcX5mngV8AFsgNOIQY-jtMm-2nCE3apSvYS2VYEj7CSxbzAsFO_toe9UczoEpjA99WODPFgUaea46098KWXnjjMwAcp5XdwepmXl5U9eBTu8xwYPb34ZMZwyHDalUblEkj7E8A3Y0iWP0q1-m07luICMu-LTrvRWMTnt9uzJ5GpsjuGnC1Qim7xruk3vLfIbmFTwD2Bx3_Jp3Gnq0rTr_FBzZx_CeN0FrX9JF9_gkg4RxcgsLM7NHIeEQlBZL_xYTZlj1SjhVEMHXfbxlSvNAkeD-FFzYH4SWqpr_eGO1gTkH-Sl0KdrBR_N_3DMCeizzAEzN4JFxiA_6VZJ0vUQrVGJi9DQO1wAaV9HFOx7uwKhvOTNM2AO11_-Yl9BQ8rhNol0WhXOI50UQVk5bYw12Zivo-JlK9do_AcXICA2mqVwlAx0TokoXOQod1R4Oij9S7Dyt6dmpSfHcQLjDUNmo5oB40jqR0EZsvLTulnfLzTLe7Kc6dyJHJ5Nsz1r8okq_2key9DHRwp0kMQJ71aRtcplHwBpBqd2UuJI1nNt6Dn-JF5gON=w960-h540-no" alt="makeathon brainstorming" width="600"></center>
+<center><img src="https://lh3.googleusercontent.com/KoYzlZXSP68srjHEZ8-Ogg6ZE0NpJQW-lKf5uu1IFUJHoplqVtoH-3UiKjTDr4irCmCXtvfuUMaEUS_Bdq_4KKWK7adeTHeIt-xJQ45diaopjpz4Mbdfb_duv_G8yLL7EELmkDjig1sg7DS71xbBgrKEtgzW-oPL63qsbxDze5wb4SV9tTA8korPwevOkrrcX5mngV8AFsgNOIQY-jtMm-2nCE3apSvYS2VYEj7CSxbzAsFO_toe9UczoEpjA99WODPFgUaea46098KWXnjjMwAcp5XdwepmXl5U9eBTu8xwYPb34ZMZwyHDalUblEkj7E8A3Y0iWP0q1-m07luICMu-LTrvRWMTnt9uzJ5GpsjuGnC1Qim7xruk3vLfIbmFTwD2Bx3_Jp3Gnq0rTr_FBzZx_CeN0FrX9JF9_gkg4RxcgsLM7NHIeEQlBZL_xYTZlj1SjhVEMHXfbxlSvNAkeD-FFzYH4SWqpr_eGO1gTkH-Sl0KdrBR_N_3DMCeizzAEzN4JFxiA_6VZJ0vUQrVGJi9DQO1wAaV9HFOx7uwKhvOTNM2AO11_-Yl9BQ8rhNol0WhXOI50UQVk5bYw12Zivo-JlK9do_AcXICA2mqVwlAx0TokoXOQod1R4Oij9S7Dyt6dmpSfHcQLjDUNmo5oB40jqR0EZsvLTulnfLzTLe7Kc6dyJHJ5Nsz1r8okq_2key9DHRwp0kMQJ71aRtcplHwBpBqd2UuJI1nNt6Dn-JF5gON=w960-h540-no" alt="makeathon brainstorming" width="600"></center><br>
 
 To better understand our target users, we mapped out the user journey of employers and employees in the situation, thinking critically about what is _said, thought, felt, and done_ at each step.
 
@@ -50,7 +50,7 @@ Over 50 ideas later, we voted on our top ideas based on _feasibility, desirabili
 
 REAL TALK is a friendly tool for employees to surface ethical concerns and to vote on important issues.
 
-We wanted to created a user-friendly web interface that synchronized with an interactive panel that employees could engage with in waiting areas (e.g. at elevators). Input on this interface can be voted on by others, who can also share stories or comments. To create a safe space, we developed a system which allows for anonymity, but does not allow an employee to create more than one account should they abuse the system.
+We wanted to create a user-friendly web interface that synchronized with an interactive panel that employees could engage with in waiting areas (e.g. at elevators). Input on this interface can be voted on by others, who can also share stories or comments. To create a safe space, we developed a system which allows for anonymity, but does not allow an employee to create more than one account should they abuse the system.
 
 On a regular basis, issues voiced on the system flow into a hackathon, where employees can ideate on possible solutions, and management can actively participate in bringing these concepts to fruition.
 
