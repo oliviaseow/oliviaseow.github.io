@@ -64,9 +64,9 @@ We then set out to build a speed demo of our idea. We designed REAL TALK to be a
 
 I took charge of the visual design, branding, and creating a friendly experience that would encourage employees to speak out.
 
-<center><img src="https://lh3.googleusercontent.com/VSbmtKfhX19KKXGtA62kdfIBAJMBzs-zZLnUPBu9AUIhthpb4HTTnrEpfCwEEWFoJmWxZ0MreeihOdvpPf0M5lf_Ur2n-oK7i-sto4aP-E8TYJVX4I71crfnpmDzBXkS6GCMagcJiRL0-XaMuSVtOXQtnR-plrKbZNF-ZwReBbLzAmYvOGON2bnHcaGUoHfmZmWxnpnIw1agMvcz_0TCMVWGYp-MusyMFM5wvwxVbF1qaSuznIT3krBJbGI7lCVMfq6pRC5arsk61cTg5y1V9gDQwe5R6yorimxyvJ3ptdkqLDaxyhb7oEgzKPD9y94EgWov1KO_xy6IlOtaWkF2xgYoC3GYidl3XcxhwpnsA2ALqO_fypAsf3028K8CuZQDv9zUDCLqoj3YgOBvEiXaDJy3Snze78qw-qBZ3aFXT4_M_oixR8Kg7XDyZmiCJMyuG-CZWHsuICtgn87LMw4xBmUHdK-pHQ14lIiUitGHOHhOr9DSwQqjom_0t6ooBKEI47VmE9yf6edXSFJgOXtMfPug0vXQdM4p2GVydtOFQTZmWnqcS7D1rfqqgQRUvyU9n5PbdgzKSPcFFOwk27FoiFOt9pamuXuB82rFRaMyg_PhINTwks6RuS0fLPKKD1agB-yEGSDSuwqVQS2Bb5v-8-9G4DUrOxlFHF1YoSgoZA95oo7o_wfyVXI=w1680-h1260-no" alt="real talk at IDEO" width="500"></center><br>
-
 To get credible content for our demo, we asked CoLab employees to complete a paper survey, "I think my company should _X_ because _Y_". Everyone was enthusiastic to complete this survey, allowing us to get a ton of content in a short time \o/
+
+<center><img src="https://lh3.googleusercontent.com/VSbmtKfhX19KKXGtA62kdfIBAJMBzs-zZLnUPBu9AUIhthpb4HTTnrEpfCwEEWFoJmWxZ0MreeihOdvpPf0M5lf_Ur2n-oK7i-sto4aP-E8TYJVX4I71crfnpmDzBXkS6GCMagcJiRL0-XaMuSVtOXQtnR-plrKbZNF-ZwReBbLzAmYvOGON2bnHcaGUoHfmZmWxnpnIw1agMvcz_0TCMVWGYp-MusyMFM5wvwxVbF1qaSuznIT3krBJbGI7lCVMfq6pRC5arsk61cTg5y1V9gDQwe5R6yorimxyvJ3ptdkqLDaxyhb7oEgzKPD9y94EgWov1KO_xy6IlOtaWkF2xgYoC3GYidl3XcxhwpnsA2ALqO_fypAsf3028K8CuZQDv9zUDCLqoj3YgOBvEiXaDJy3Snze78qw-qBZ3aFXT4_M_oixR8Kg7XDyZmiCJMyuG-CZWHsuICtgn87LMw4xBmUHdK-pHQ14lIiUitGHOHhOr9DSwQqjom_0t6ooBKEI47VmE9yf6edXSFJgOXtMfPug0vXQdM4p2GVydtOFQTZmWnqcS7D1rfqqgQRUvyU9n5PbdgzKSPcFFOwk27FoiFOt9pamuXuB82rFRaMyg_PhINTwks6RuS0fLPKKD1agB-yEGSDSuwqVQS2Bb5v-8-9G4DUrOxlFHF1YoSgoZA95oo7o_wfyVXI=w1680-h1260-no" alt="real talk at IDEO" width="600"></center><br>
 
 This content was fed into both our virtual and physical prototypes, the former created on Figma, and the latter consisting thick paper, laser-cut acrylic, and little-bits.
 
